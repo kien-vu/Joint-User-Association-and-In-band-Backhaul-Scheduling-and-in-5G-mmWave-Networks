@@ -1,7 +1,9 @@
-# In-Band-Scheduling-and-User-Association-in-5G-HetNets
+# Joint In-Band Scheduling and Load Balancing in 5G-HetNets
 Matlab Simulation for T. K. Vu, M. Bennis, S. Samarakoon, M. Debbah and M. Latva-aho, "Joint In-Band Backhauling and Interference Mitigation in 5G Heterogeneous Networks," European Wireless 2016; 22th European Wireless Conference, Oulu, Finland, 2016, pp. 1-6. 
 
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7499273&amp;isnumber=7499250
+
+And atlab Simulation for T. K. Vu, M. Bennis, S. Samarakoon, M. Debbah and M. Latva-aho, "Joint Load Balancing and Interference Mitigation in 5G Heterogeneous Networks," IEEE Transaction on Wireless Communications, 2017.
 
 The package contains a outline simulation, based on Matlab, that helps reproduce all the numerical results and figures in the article. We encourage you to also perform reproducible research!
 
