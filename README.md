@@ -4,6 +4,7 @@ Matlab Simulation for T. K. Vu, M. Bennis, S. Samarakoon, M. Debbah and M. Latva
 URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&amp;arnumber=7499273&amp;isnumber=7499250
 
 And T. K. Vu, M. Bennis, S. Samarakoon, M. Debbah and M. Latva-aho, "Joint Load Balancing and Interference Mitigation in 5G Heterogeneous Networks," IEEE Transactions on Wireless Communications 16 (9), 6032 - 6046, Sept. 2017.
+URL: http://ieeexplore.ieee.org/abstract/document/7959611/
 
 The package contains a outline simulation, based on Matlab, that helps reproduce all the numerical results and figures in the article. We encourage you to also perform reproducible research!
 
