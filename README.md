@@ -1,4 +1,4 @@
-# Joint In-Band Scheduling and Load Balancing in 5G-HetNets
+# Joint-User-Association-and-In-band-Backhaul-Scheduling-and-in-5G-mmWave-Networks
 Matlab Simulations for 
 
 "Joint Load Balancing and Interference Mitigation in 5G Heterogeneous Networks," IEEE Transactions on Wireless Communications 16 (9), 6032 - 6046, Sept. 2017.
